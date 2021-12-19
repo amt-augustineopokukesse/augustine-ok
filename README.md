@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="./images/banner.png" alt="my banner"></a>
+</p>
 
-<!--
-**augustine-ok/augustine-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Augustine</a> 👋
+</h3>
 
-Here are some ideas to get you started:
+<h2 align="center">
+I'm a Full-Stack Engineering trainee 💻 in the Amalitech Graduate Trainee Program!
+</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I love the entire website development process as well as the challenges that come with it. 
+The future where I engineer and bring people's thoughts and ideas to life is what excites me the most about this whole process. 
