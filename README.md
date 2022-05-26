@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://augustine-ok.github.io/personal-portfolio-site/" 
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Engineering trainee 💻 in the Amalitech Graduate Trainee Program!
+I'm a Front-End Engineering trainee 💻 in the Amalitech Graduate Trainee Program!
 </h2> 
 
 
@@ -21,9 +21,11 @@ The future where I engineer and bring people's thoughts and ideas to life is wha
 
 ## 🌱 I'm currently learning
 
-- Front-End engineering courses in the Full-Stack Engineer Career Path on <a href="https://www.codecademy.com/" target="_blank">codecademy.com</a>. 
+- Front-End engineering courses in the Front-End Engineer Career Path on <a href="https://www.codecademy.com/" target="_blank">codecademy.com</a>. 
 
 ## 💼 Technical Skills
 - JavaScript
 - HTML
 - CSS
+- ReactJS and Redux
+- SASS
